@@ -1,10 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Sun Feb  9 13:07:03 2020
+@author: Natasha M
+"""
 
-@author: murzik
-"""
 
 import requests
 from collections import defaultdict

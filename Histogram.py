@@ -1,9 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Spyder Editor
+@author: Natasha M
+"""
 
-This is a temporary script file.
-"""
 
 import requests
 from collections import defaultdict
